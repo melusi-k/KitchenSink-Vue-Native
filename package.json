@@ -22,7 +22,7 @@
   "dependencies": {
     "expo": "^26.0.0",
     "native-base": "2.6.0",
-    "react": "16.3.0-alpha.1",
+    "react": "16.14.0",
     "react-native": "0.54.0",
     "vue-native-core": "0.0.5",
     "vue-native-helper": "0.0.8",
